@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Teste tech.fit</string>
+    <string name="title_activity_detail">Detalhes da Imagem</string>
+
+    <string name="message_no_network">Sem conexão com a rede</string>
+    <string name="label_url">URL:</string>
+    <string name="label_id">ID:</string>
+
+    <string name="action_share">Compartilhar</string>
+    <string name="action_open">Abrir</string>
+    <string name="share_image_url">Compartilhar url da imagem</string>
+    <string name="message_liked_image">Imagem curtida</string>
+    <string name="message_disliked_image">Imagem descurtida</string>
+</resources>

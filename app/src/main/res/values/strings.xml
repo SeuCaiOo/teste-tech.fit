@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Teste tech.fit</string>
+    <string name="title_activity_detail">Image Details</string>
+
+    <string name="message_no_network">No network connection</string>
+    <string name="label_url">URL:</string>
+    <string name="label_id">ID:</string>
+
+    <string name="action_share">Share</string>
+    <string name="action_open">Open</string>
+    <string name="share_image_url">Share image url</string>
+    <string name="message_liked_image">Liked image</string>
+    <string name="message_disliked_image">Disliked image</string>
+</resources>
